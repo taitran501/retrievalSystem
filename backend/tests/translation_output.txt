@@ -1,0 +1,17 @@
+=== Translation Test Results ===
+
+Original: người gây tai nạn đầu trọc mặc áo sọc
+Translated: The person who caused the accident had a bald head and was wearing a striped shirt
+------------------------------
+Original: một người đàn ông đầu trọc mặc áo thun kẻ sọc
+Translated: a bald man wearing a striped t-shirt, bald head
+------------------------------
+Original: phụ nữ mặc váy đỏ cầm điện thoại
+Translated: woman in red dress holding phone, female
+------------------------------
+Original: xe hơi màu trắng đi trên đường thành phố
+Translated: White car driving on city streets
+------------------------------
+Original: nhiều người tụ tập ở công viên
+Translated: Many people gathered in the park
+------------------------------

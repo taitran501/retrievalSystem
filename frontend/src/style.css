@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom hover ring for video groups */
+.hover\:ring-2:hover {
+  @apply ring-2;
+  ring-color: var(--hover-ring-color, #60A5FA);
+}

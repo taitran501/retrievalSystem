@@ -1,0 +1,16 @@
+INFO:translator:Loaded 37 exact queries, 137 keywords
+INFO:translator:Using Google Translate
+INFO:translator:QueryTranslator initialized with backend: google
+INFO:translator:Preserved 3 keywords
+INFO:translator:Smart translation: 'ng\u01b0\u1eddi gây tai n\u1ea1n \u0111\u1ea7u tr\u1ecdc áo s\u1ecdc' \u2192 'person caused the accident bald head striped shirt'
+
+=== Translation Test Results ===
+
+Traceback (most recent call last):
+  File "C:\Users\trant\Documents\retrieval_system\retrievalSystem\backend\test_new_translation.py", line 26, in <module>
+    test_translations()
+  File "C:\Users\trant\Documents\retrieval_system\retrievalSystem\backend\test_new_translation.py", line 21, in test_translations
+    print(f"Original: {q}")
+  File "C:\Users\trant\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 12-13: character maps to <undefined>
