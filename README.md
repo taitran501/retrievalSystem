@@ -17,8 +17,6 @@ retrievalSystem/
 ├── backend/          # FastAPI backend service
 ├── frontend/         # Vue.js frontend application
 ├── database/         # Docker compose for Milvus
-├── scripts/          # Utility scripts and tools
-├── docs/             # Documentation
 ├── data/             # Data files (keyframes, embeddings)
 └── config/           # Configuration files
 ```
@@ -145,12 +143,3 @@ python -m pytest tests/
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
-## License
-
-[Add your license here]
-
-## Support
-
-For issues and questions, please open an issue on GitHub.
-
